@@ -1,5 +1,8 @@
+# Would-You-Rather
+
+
 ## Project Purpose :
-- This React App was built for udacity react nanodegree program. This project is implemented using advanced concepts like redux state management,   react-redux and also react fundamentals. For styling purpose [semantic-ui-react]url(https://react.semantic-ui.com/) package is used 
+- This React App was built for udacity react nanodegree program. This project is implemented using advanced concepts like redux state management,   react-redux and also react fundamentals. For styling purpose [semantic-ui-react](https://react.semantic-ui.com/) package is used 
 
 ## Pre-requisites:
 - Editor
